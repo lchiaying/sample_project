@@ -4,4 +4,3 @@ a = np.array(3)
 str = 'hi there'
 print a
 print str
-print a+a
